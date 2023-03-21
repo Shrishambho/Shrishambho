@@ -33,19 +33,19 @@
 
 <h2 align="left">📄 My Stats:</h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhii-07" alt="Abhii-07" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shrishambho" alt="Shrishambho" /></a> </p>
 
 <br>
 
 <h2 align="left">📊 My Github Stats:</h2>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-07" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhii-07&show_icons=true" alt="Abhii-07" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrishambho" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrishambho&show_icons=true" alt="Shrishambho" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhii-07" alt="Abhii-07" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrishambho" alt="Shrishambho" /></p>
 
 <br>
 <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Abhijeet Hiwale's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhii-07&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Shrishambho Khade's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shrishambho&theme=react-dark&hide_border=true" /></a>
 
 <br>
