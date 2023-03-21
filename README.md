@@ -1,12 +1,20 @@
 ![MasterHead](https://scand.com/wp-content/uploads/2020/05/Java-KV2.jpg)
-<h1 align="center">Hi 👋, I'm Abhijeet Hiwale</h1>
-<h2 align="center">A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, web design and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h2>
+<h1 align="center">Hi 👋, I'm Shrishambho Khade</h1>
+<h2 align="center">Results-driven Engineering and Management
+student passionate about coding. Excellent
+problem-solving skills and ability to perform well
+in a team as well as grow and develop own skills
+as a developer. Strong understanding of the web
+development cycle and programming techniques
+and tools. Ability to work independently or with a
+group.
+</h2>
 <img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhii-07&label=Profile%20views&color=0e75b6&style=flat" alt="Abhii-07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrishambho&label=Profile%20views&color=0e75b6&style=flat" alt="Shrishambho" /> </p>
 - 🌱 I’m currently learning *Java Back-end development*
 - 👨‍💻 All of my projects are available at my [Portfolio](https://abhii-07.github.io/)
-- 📫 How to reach me `abhijeethiwalemail@gmail.com`
-- 📄 Have a look at my [Resume](https://drive.google.com/file/d/112BrHZEOxHVOYoBBgOghSrsqtlaUQE3F/view?usp=share_link)
+- 📫 How to reach me `shrikhade9096@gmail.com`
+- 📄 Have a look at my [Resume](https://drive.google.com/file/d/1kyy_c9wtbkWuhIajWRK9VOe0W0TLk5hr/view?usp=share_link)
 - 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhijeethiwale/)
 <!-- - 💬 ask me about Java
 - 😄 Pronouns: He/His -->
