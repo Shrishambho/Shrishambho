@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning *Java Back-end development*
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://shrishambho.github.io/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://shrishambho.github.io)
 
 - 📫 How to reach me `shrikhade9096@gmail.com`
 
